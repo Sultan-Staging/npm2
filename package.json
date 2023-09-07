@@ -42,6 +42,6 @@
     "mariadb": "^2.5.0"
   },
   "devDependencies": {
-    "jasmine": "3.3.0"
+    "jasmine": "3.99.0"
   }
 }
